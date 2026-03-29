@@ -30,7 +30,8 @@ theme = "hextra"
 
     [params.navbar.logo]
       path = "logo.png"
-      link = "/"
+      link = "/blog/"
       width = 40
       height = 20
+
 
