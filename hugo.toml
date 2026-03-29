@@ -12,16 +12,23 @@ theme = "hextra"
     weight = 1
 
   [[menu.main]]
+    identifier = "readings"
+    name = "読書記録"
+    url = "/readings/"
+    weight = 2
+
+  [[menu.main]]
     identifier = "blog"
     name = "Blog"
     url = "/blog/"
-    weight = 2
+    weight = 3
 
   [[menu.main]]
     identifier = "debate"
     name = "Debate"
     url = "/debate/"
-    weight = 3
+    weight = 4
+
 
 [params]
   [params.navbar]

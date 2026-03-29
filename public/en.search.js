@@ -18,7 +18,7 @@ document.addEventListener("DOMContentLoaded", function () {
 // 
 
 (function () {
-  const searchDataURL = '/en.search-data.json';
+  const searchDataURL = '/blog/en.search-data.json';
   const resultsFoundTemplate = '%d件の結果が見つかりました';
 
   const inputElements = document.querySelectorAll('.hextra-search-input');
