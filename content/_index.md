@@ -7,9 +7,9 @@ draft: false
 
 
 {{< cards >}}
-  {{< card link="http://localhost:1313/about/" title="自己紹介">}}
-  {{< card link="http://localhost:1313/blog/" title="Blog" >}}
-  {{< card link="http://localhost:1313/debate/" title="Blog" >}}
+  {{< card link="https://jhuizinga.github.io/blog/about/" title="自己紹介">}}
+  {{< card link="https://jhuizinga.github.io/blog/blog/" title="Blog" >}}
+  {{< card link="https://jhuizinga.github.io/blog/debate/" title="Blog" >}}
 {{< /cards >}}
 
 
