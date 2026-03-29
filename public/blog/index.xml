@@ -1,0 +1,36 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Megalorrountas – Blog</title>
+    <link>http://localhost:1313/blog/</link>
+    <description>Recent content in Blog on Megalorrountas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Wed, 20 Aug 2025 10:38:16 +0900</lastBuildDate>
+    
+	  <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>ブルガーコフ「巨匠とマルガリータ」</title>
+      <link>http://localhost:1313/blog/master_and_margarita/</link>
+      <pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/master_and_margarita/</guid>
+      <description>
+        
+        
+        &lt;h3&gt;書誌情報&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;書誌情報&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%9b%b8%e8%aa%8c%e6%83%85%e5%a0%b1&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;このセクションへのパーマリンク&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h3&gt;あらすじ&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;あらすじ&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e3%81%82%e3%82%89%e3%81%99%e3%81%98&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;このセクションへのパーマリンク&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h3&gt;感想&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;感想&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%84%9f%e6%83%b3&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;このセクションへのパーマリンク&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h3&gt;地点「巨匠とマルガリータ」&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;地点巨匠とマルガリータ&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%9c%b0%e7%82%b9%e5%b7%a8%e5%8c%a0%e3%81%a8%e3%83%9e%e3%83%ab%e3%82%ac%e3%83%aa%e3%83%bc%e3%82%bf&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;このセクションへのパーマリンク&#34;&gt;&lt;/a&gt;&lt;/h3&gt;
+      </description>
+    </item>
+    
+  </channel>
+</rss>

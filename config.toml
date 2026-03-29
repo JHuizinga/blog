@@ -1,0 +1,156 @@
+baseURL = "http://localhost:1313"
+languageCode = 'ja-ja'
+title = 'Megalorrountas'
+theme = 'Hextra'
+
+[params.menu]
+    dropdown = true
+    [menu]
+    [[menu.main]]
+        identifier = "about"
+        name = "自己紹介"
+        url = "/about/"
+        weight = 1
+    [[menu.main]]
+        identifier = "Blog"
+        name = "Blog"
+        url = "/Blog/"
+        weight = 2
+    [[menu.main]]
+        identifier = "Englishdebate"
+        name = "Englishdebate"
+        url = "/englishdebate/"
+        weight = 3
+
+
+  # ヘッダー設定
+  [params.header]
+    desktopMode = "fixed"
+    mobileMode = "auto"
+    
+    [params.header.title]
+      logo = ""
+      name = "Megalorrountas"  
+      typeit = false      
+
+  # フッター設定
+  [params.footer]
+    enable = true
+    custom = '© 2025 Megalorrountas | Built with <a href="https://gohugo.io/" target="_blank">Hugo</a> & <a href="https://github.com/dillonzq/LoveIt" target="_blank">LoveIt</a>'
+    hugo = false
+    copyright = false
+    author = true
+
+[params.home]
+    rss = 10
+    [params.home.profile]
+      enable = true
+      avatarURL = "avatar.png"
+      title = "Megalorrountas"
+      subtitle = "We can't stop doing metaphysics"
+      typeit = true
+      social = true
+      disclaimer = ""
+      description = ""
+
+    [params.home.posts]
+      enable = true
+      paginate = 6
+      defaultHiddenFromHomePage = false
+
+  [params.page]
+    hiddenFromHomePage = false
+    hiddenFromSearch = false
+    twemoji = false  # 技術記事では絵文字を控えめに
+    lightgallery = true
+    ruby = true
+    fraction = true
+    fontawesome = true
+    linkToMarkdown = true
+    rssFullText = false
+    
+    [params.page.toc]
+      enable = true
+      keepStatic = false
+      auto = true
+      position = "right"
+    
+    [params.page.code]
+      copy = true
+      maxShownLines = 100  # 長いコードも表示
+      
+    [params.page.math]
+      enable = true  # 数式表示を有効
+      blockDelimiter = ""
+      inlineDelimiter = ""
+      copyTex = true
+      mhchem = true
+    
+
+    [params.page.comment]
+      enable = false  # 必要に応じてコメント機能を有効化
+
+
+  # ソーシャルリンク（開発者向け）
+  [params.social]
+    GitHub = ""
+    Gitlab = ""
+    Linkedin = ""
+    Twitter = ""
+    Mastodon = "https://mstdn.maud.io/@uyu"
+    Instagram = "https://www.instagram.com/putitnius?igsh=YjJ0dmRubnZ1aHZl&utm_source=qr"
+
+
+  # アナリティクス（オプション）
+  [params.analytics]
+    enable = false
+    
+  # SEO設定
+  [params.seo]
+    image = "/images/dev-avatar.png"
+    thumbnailUrl = "/images/dev-avatar.png"
+
+# 作者情報
+[author]
+  name = "Megalorrountas"
+  email = ""
+  link = ""
+
+# サイトマップ設定
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.5
+
+# パーマリンク設定（技術記事向け）
+[Permalinks]
+  posts = "/posts/:year/:month/:filename/"
+  
+# タクソノミー設定
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"  # 技術記事のシリーズ化
+
+# プライバシー設定
+[privacy]
+  [privacy.twitter]
+    disabled = false
+    enableDNT = true
+    simple = true
+  [privacy.youtube]
+    disabled = false
+    privacyEnhanced = true
+
+# セキュリティ設定
+[security]
+  enableInlineShortcodes = false
+  [security.exec]
+    allow = ['^dart-sass-embedded$', '^go$', '^npx$', '^postcss$']
+    osEnv = ['(?i)^(PATH|PATHEXT|APPDATA|TMP|TEMP|TERM)$']
+  [security.funcs]
+    getenv = ['^HUGO_']
+  [security.http]
+    methods = ['(?i)GET|POST']
+    urls = ['.*']
+

@@ -1,0 +1,36 @@
+baseURL = "http://localhost:1313"
+languageCode = "ja"
+title = "Megalorrountas"
+theme = "hextra"
+
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "自己紹介"
+    url = "/about/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/blog/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "debate"
+    name = "Debate"
+    url = "/debate/"
+    weight = 3
+
+[params]
+  [params.navbar]
+    displayTitle = true
+    displayLogo = true
+
+    [params.navbar.logo]
+      path = "logo.png"
+      link = "/"
+      width = 40
+      height = 20
+
