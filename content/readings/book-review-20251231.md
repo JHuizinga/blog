@@ -1,6 +1,6 @@
 +++
 date = '2025-12-31T20:51:03+09:00'
-draft = false
+draft = true
 title = '2025年ベスト小説'
 +++
 
