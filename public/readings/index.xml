@@ -16,6 +16,75 @@
     
     
     <item>
+      <title>本の読み方_v0.1</title>
+      <link>http://localhost:1313/blog/readings/book-review-20251231/</link>
+      <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/readings/book-review-20251231/</guid>
+      <description>
+        
+        
+        &lt;h3&gt;最近の読書における課題感&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;最近の読書における課題感&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%9c%80%e8%bf%91%e3%81%ae%e8%aa%ad%e6%9b%b8%e3%81%ab%e3%81%8a%e3%81%91%e3%82%8b%e8%aa%b2%e9%a1%8c%e6%84%9f&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;このセクションへのパーマリンク&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;最近読書が下手なことに悩んでいる。これまでは本を一定量読むことには自信があったのだが、年次とランクが上がったことで求められるインプットの水準も上がってきた。おまけに社会人経験もついてきたことで、周囲の「当たり前」のレベルが存外高いぞ？ということにようやく気付き始め、読むだけでなくアウトプットの質をどう担保するか？が課題として浮上してきたのだ。&lt;/p&gt;
+&lt;p&gt;自分のこれまでの読書は「趣味の読書」だった。興味のある本を手に取って、興味に即して読んで、特にメモを取ることもせず、感想だけを頭の中に保存しておき、必要になった時に引っ張り出す。しかし、業務上ではキャッチアップにおいてある特定分野の大まかな見取り図を得ることと同時に、分野を複数の軸を持って語れるようになるための読書をしなくてはならない。興味のある本のみ手に取るだと見取り図に空白地帯が生じてしまうし、自分の興味に即して読むだけだと観点を上手く消化しきらない可能性が高い。さらに、読書量が自分のモチベーションに依存するため、要求量に達しない可能性がある。要するにムラがあるのだ。&lt;/p&gt;
+&lt;p&gt;そこで、&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;なるべく1冊当たりの吸収率を高めること&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;モチベーションに関係なく書籍を消化するのをルーチン化すること&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;使える形でアウトプットすること&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;以上の3点を達成するために、&lt;strong&gt;読書の型化&lt;/strong&gt;を考えようと思う。&lt;/p&gt;
+&lt;h3&gt;読書の型化とは&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;読書の型化とは&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e8%aa%ad%e6%9b%b8%e3%81%ae%e5%9e%8b%e5%8c%96%e3%81%a8%e3%81%af&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;このセクションへのパーマリンク&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;読書の型化とは、シンプルに読書のアウトプットフォーマットを作成し、それに沿って読書をこなしていくことだ。アウトプットフォーマットは一定期間ごとに見直し、よりよい方法がないかを模索する。
+よりよい読書について、少し身近な人とも話したが、「具体的な問いを持って同一テーマの3~4冊の本を選ぶ。解を探しながら読み、メモを取る。その中での共通項がその領域で合意されている点である」というのが定石っぽい。&lt;/p&gt;
+&lt;p&gt;ビジネス関係なく、千葉雅也も言ってたし、秋山真之も同様の読書方法だったらしいので、一定経験的に確からしそうではある。&lt;br&gt;
+それを踏まえて、取り敢えず現段階では以下の解像度でメモを取っていきたい。ざっくりしすぎかな？&lt;/p&gt;
+&lt;h4&gt;読書アウトプットの型(2026年4月バージョン)&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;読書アウトプットの型2026年4月バージョン&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e8%aa%ad%e6%9b%b8%e3%82%a2%e3%82%a6%e3%83%88%e3%83%97%e3%83%83%e3%83%88%e3%81%ae%e5%9e%8b2026%e5%b9%b44%e6%9c%88%e3%83%90%e3%83%bc%e3%82%b8%e3%83%a7%e3%83%b3&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;このセクションへのパーマリンク&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ol&gt;
+&lt;li&gt;問い&lt;/li&gt;
+&lt;li&gt;書誌情報&lt;/li&gt;
+&lt;li&gt;各書籍の中の問いに関連する箇所の引用&lt;/li&gt;
+&lt;li&gt;一般解と問いに対する自分なりの回答&lt;/li&gt;
+&lt;li&gt;その他立てた問いに関連しないが面白かった場所&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;唯一形式的なこだわりがあるとしたら、書誌情報である。とりあえず大学で習った業界標準に合わせる形で記載するが、翻訳本だったり、洋書だったりするといろいろとめんどくさいため、一応ルールとして整理しておく。別に学術雑誌は購読してないから、学術論文の場合は省略する。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;単著の場合:著者名(編著).『書名』,出版社,出版年.&lt;br&gt;
+e.g. 神崎繁『プラトンと反遠近法』講談社学術文庫, 2025年.&lt;/li&gt;
+&lt;li&gt;翻訳書の場合:原著者名『書名』翻訳者名+訳, 出版者, 出版年. &lt;br&gt;
+e.g. マルグリッド・ユルスナール『黒の過程』岩崎力訳, 白水社, 2008年.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;海外の場合はとりあえずMLA第8版のCitation codeに合わせる&lt;/strong&gt;ことにする。出版地書くの、20世紀前半までの著作であれば意味あるのわかるけど、現代の著作であれば省略していいような気がするけどな。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;単著の場合：Last Name, First Name. &lt;em&gt;Italicized Title: subtitle&lt;/em&gt; Publishing Location, Publisher, Publication Year, Page number&lt;br&gt;
+Stoppard, Tom. &lt;em&gt;Rosencrantz and Guildenstern Are Dead&lt;/em&gt;. London, Faber And Faber, 1968.&lt;/li&gt;
+&lt;li&gt;編著書やアンソロジーからの引用：Last Name, First Name. &amp;ldquo;Article Title&amp;rdquo; &lt;em&gt;Italicized Title: subtitle&lt;/em&gt; Publishing Location, Publisher, Publication Year&lt;br&gt;
+Gutmann, Amy. “What’s the Use of Going to School?” &lt;em&gt;Utilitarianism and Beyond&lt;/em&gt;, 10 June 1982, pp. 261–278,&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;じゃあ思い付きで手に取った本はどうすんだよ&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;じゃあ思い付きで手に取った本はどうすんだよ&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e3%81%98%e3%82%83%e3%81%82%e6%80%9d%e3%81%84%e4%bb%98%e3%81%8d%e3%81%a7%e6%89%8b%e3%81%ab%e5%8f%96%e3%81%a3%e3%81%9f%e6%9c%ac%e3%81%af%e3%81%a9%e3%81%86%e3%81%99%e3%82%93%e3%81%a0%e3%82%88&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;このセクションへのパーマリンク&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;自分の読書は趣味から派生しているので、シグナリング効果というか、とりあえず周りが読んでいるから読もうと思って手に取ることがめっちゃ多い。&lt;br&gt;
+それも読書っちゃ読書なので、その体験も拾ってあげたいが、それはいったんインプット目的ではなくて、後々のフォローアップに期待して、アンカリングとして拾うこととする。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;書誌情報&lt;/li&gt;
+&lt;li&gt;印象に残った箇所の引用&lt;/li&gt;
+&lt;li&gt;既存の書籍や自分の経験との紐づけ&lt;/li&gt;
+&lt;li&gt;関連ありそうな分野&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;じゃあ完璧に趣味の本は？&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;じゃあ完璧に趣味の本は&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e3%81%98%e3%82%83%e3%81%82%e5%ae%8c%e7%92%a7%e3%81%ab%e8%b6%a3%e5%91%b3%e3%81%ae%e6%9c%ac%e3%81%af&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;このセクションへのパーマリンク&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;小説もメモを取るのかといわれると、多分取ったほうが良い。新しい感情のパターンとか、読んだ当初は新鮮に思えても忘れることがあるし、なんか自分が本書くときとかに扉書きとして使えるかもしれないじゃん？&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;書誌情報&lt;/li&gt;
+&lt;li&gt;印象に残った箇所の引用&lt;/li&gt;
+&lt;li&gt;簡単な感想/出てきた問い/自分なりの回答&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;ガチガチの文学を読むときは何か有名な論文を先に読んで、問いを仕込んだうえで読むのが定着にもいいのかねえ、とは思う。&lt;br&gt;
+まあ趣味だしいいか。&lt;/p&gt;
+&lt;h3&gt;終わりに&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;終わりに&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e7%b5%82%e3%82%8f%e3%82%8a%e3%81%ab&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;このセクションへのパーマリンク&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;これが始まり。取り敢えずこの粒度で実践してみて、うまくいくいかないを見極める必要があるし、フォーマットをもっと精緻化していくぞ。&lt;/p&gt;
+      </description>
+    </item>
+    
+    <item>
       <title>トム・ストッパード　『コースト・オブ・ユートピア』（広田敦郎訳、ハヤカワ演劇文庫 2010）</title>
       <link>http://localhost:1313/blog/readings/book-review-20260329/</link>
       <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
@@ -25,7 +94,7 @@
         
         
         &lt;h3&gt;手に取ったきっかけ&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;手に取ったきっかけ&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%e6%89%8b%e3%81%ab%e5%8f%96%e3%81%a3%e3%81%9f%e3%81%8d%e3%81%a3%e3%81%8b%e3%81%91&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;このセクションへのパーマリンク&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;この本を手に取ったきっかけは、微細な3つの兆候というややこしい話なのだが、少々お付き合いを願いたい。&lt;/p&gt;
+    &lt;a href=&#34;#%e6%89%8b%e3%81%ab%e5%8f%96%e3%81%a3%e3%81%9f%e3%81%8d%e3%81%a3%e3%81%8b%e3%81%91&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;このセクションへのパーマリンク&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;この本を手に取ったきっかけは、少々迂遠な3つの話の結果なのだが、まずはお付き合いを願いたい。&lt;/p&gt;
 &lt;h4&gt;ゲルツェン？誰？？&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;ゲルツェン誰&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%e3%82%b2%e3%83%ab%e3%83%84%e3%82%a7%e3%83%b3%e8%aa%b0&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;このセクションへのパーマリンク&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;大学の先輩に誘われて入ったDiscordの読書会サーバーでは、2024年に岩波文庫からゲルツェン『過去と思索』が出たことで、9月ごろに2巻が課題書籍に選定された。
 自分は鯖に入ってはいたものの幽霊部員で、かといって全く見ないわけではなく、チャットの流れを追いながら裏で興味のある本を買って少し読んで、、、みたいなことをしていた。割と尊敬している先輩が推していたので、ゲルツェンに対して少し興味は出て、課題図書を本屋で買うまではしたのだった&lt;/p&gt;
