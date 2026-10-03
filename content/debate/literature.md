@@ -1,10 +1,10 @@
-+++
-date = '2026-10-03T16:57:54+09:00'
-draft = true
-title = 'THBT literature will no longer impact the politics'
-+++
+---
+title: Evergreen Cup GF 'THBT literature will no longer impact the politics'
+date: 2026-10-03T16:57:54+09:00
+draft: false
+---
 
-Oppがイケてなかったし、いろいろとツッコミどころもおおかったので解説？を書きます
+Oppがイケてなかったし、いろいろとツッコミどころもおおかったので解説？を書きます。自分が以下を出力できるかというと多分微妙
 
 ## 文学の定義
 
