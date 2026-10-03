@@ -1,6 +1,6 @@
 +++
 date = '2026-10-03T16:57:54+09:00'
-draft = false
+draft = true
 title = 'THBT literature will no longer impact the politics'
 +++
 
