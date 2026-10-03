@@ -8,39 +8,78 @@ Oppがイケてなかったし、いろいろとツッコミどころもおお�
 
 ## 文学の定義
 
-文学とは何か、という大きな問いに答えるのは大学者の人生の盛時または終盤にのみ許された特権であって、自分には到底できない。あくまで目的は整理なので、辞書の引き方だけを指摘して終わりにしたい。
+### 結論
+文学とは何か、という大きな問いに答えるのは文学研究者の研究人生の盛時または終盤にのみ許された特権であって、自分には到底その資格はない。あくまでディベートの整理として、定義を引く辞書が根本的に間違っているということを指摘して終わりにしたい。
 
-結論:単語のきちんとした定義を聞かれたときに、無料で見れるOxford Learners Dictionaryを引くのではなく、大学で契約している**Oxford English Dictionary**(通称：OED)を引いてほしい。手に入らないのであればMarrian-Websterであればまだマシかも
+結論:単語のきちんとした定義を聞かれたときに、無料で見れるOxford Learners Dictionaryを引くのではなく、大学で契約している**Oxford English Dictionary**(通称：OED)を引いてほしい。日本語でも「文学」について真面目に議論したいときに小学館こども辞典を引いてくる奴はいないだろう。
 
 
 <!-- 以下蛇足 -->
 <details><summary>以下蛇足</summary>
 
-Motion ClearificationでACが提示していた定義（Oxford Dictionary（笑））のどこがマズいのかというと
+
+### どこが悪いのか・採用すべき定義は何か
+Motion ClearificationでACが提示していた定義（Oxford Dictionary（笑））のどこがマズいのかというと、その19世紀性にある。
+
 >pieces of writing that are valued as works of art, especially novels, plays and poems
 
-この定義を採用して"especially novels, plays and poems"に込められた意味を考えると、あらゆる小説形式の中で"Novel"のみがliteratureとしての特権性を有する、という風に読めてしまう。パッと思いつくだけでも、ロマンス、短編小説、SFが弾かれてしまう。ラウンドの中で問題になっていたサリー・ルーニーはロマンス作家なので対象にならないし、SFはNovelではないし、聖書は言わずもがなだ。
+この定義を採用して"especially novels, plays and poems"に込められた意味を考えると、あらゆる小説形式の中で"Novel"のみがliteratureとしての特権性を有する、という風に読めてしまう。パッと思いつくだけでも、ロマンス、短編小説、SFが弾かれてしまうだろう。ラウンドの中で問題になっていたサリー・ルーニーはロマンス作家なので対象にならないし、SFはNovelではないし、聖書は言わずもがなだ。
 
-そんなにジャンルにこだわらなくても、と思う方向けにナサニエル・ホーソーン『七破風の屋敷』（1851）の序文を引いてみると
+そんなにジャンルにこだわらなくても、と思う方向けに19世紀の作家ナサニエル・ホーソーン『七破風の屋敷』（1851）の序文を引いてみると
 
 >WHEN a writer calls his work a Romance, it need hardly be observed that he wishes to claim a certain latitude, both as to its fashion and material, which he would not have felt himself entitled to assume had he professed to be writing a Novel. The latter form of composition is presumed to aim at a very minute fidelity, not merely to the possible, but to the probable and ordinary course of man's experience. The former--while, as a work of art, it must rigidly subject itself to laws, and while it sins unpardonably so far as it may swerve aside from the truth of the human heart--has fairly a right to present that truth under circumstances, to a great extent, of the writer's own choosing or creation.
 
-とある。Novelは人間のたどる経験を、可能性や蓋然性を含め、とても細かく忠実に描くことを目的としているが、Rmanceはそれよりかラフな形式なのだ。
-ロマンスだけでなく、短編小説・SFといったジャンルも、そればかり書いていても一人前の作家としてみなされなかったり、劣った形式とされてliterary canonの仲間入りをさせてもらえなかった。
+とある。Novelは人間のたどる経験を、可能性や蓋然性を含め、とても細かく忠実に描くことを目的としている、至高の形式であって、Romanceはそれよりラフで、一段劣った形式とみなされている。
+
+
+こうしたnovelを中心とした価値観はロマンスだけでなく、短編小説・SFといったジャンルにも及ぶ。そればかり書いていても一人前の作家としてみなされなかったり、劣った形式とされてliterary canonの仲間入りをさせてもらえなかった。*Literature*とはアカデミアに認められた特権的な立ち位置であって、ジャンル間の優劣とは切っては切り離せない関係にあることは留意すべきであろう。
+
+
 
 年代もまた問題になる。大学のLiterature Courseの研究対象を端的に示した"from Beowulf to Virginia Woolf"という言葉があるように、古英語からモダニズム期を対象にしたものしか研究対象とはみなされてこず、現代の作品は「新しすぎる」と言って対象とはならなかった。（とはいえ今の大学はそこら辺のしがらみはなく、ジーン・ウルフも研究できるので安心してね）。
 
+
+
 Literatureという単語には、「何を学知として扱うか」という問いの緊張感が常に孕むことを頭の片隅に置いておいて、論題の定義として提示する場合は、なるべく広く、ニュアンスに富んだものを提示するのがよいだろう。
+
+
 
 ここではOEDの定義を引いておこう。
 
 >3-a. The result or product of literary activity; written works considered collectively; a body of literary works produced in a particular country or period, or of a particular genre. Also: such a body of works as a subject of study or examination (frequently with modifying word specifying the language, period, etc., of literature studied).
 
+
+
 アカデミック・サークルの中でliteratureであるという共通認識のある、特定のジャンルや国・時代の作品を「文学作品」という説明で、どのジャンルがとは踏み込んでいない。非常に奥ゆかしい表現である。
+
+
 
 ここら辺の事情はテリー・イーグルトン『文学とは何か』に詳しいので、時間があれば読んでみるといい。
 
+
+### 定義が異なることによって、ディベートにどのような影響があるか
+
+結局は、スタンスの取り方による。すなわち、*Literature*とは、単に小説であるだけでなく、アカデミック・サークルから認められた作品であるという意味を強く孕んでいる。
+
+
+
+現代において「小説家になろう」とか「カクヨム」といったサイトに連載されている小説群は、文体のメタ・アナリシスの研究対象にはなっても、通常単体作品としては研究対象にはならないように、女性文学やSF、短編小説といったジャンルは、書かれた当時は全く文学というアカデミックな事柄として取り上げようという機運はなかった。（そもそも*Literature*というジャンル自体、20世紀初頭までは英語を理解する英国人であれば全員が理解できるもので、取り立てて学知として研究しようとは思われていなかったジャンルなのではあるが）
+
+
+この定義があって初めて、Govとしては「学知化された文学は既に体制の中に取り込まれており、ポリティカルな立場としての有効性を失っている（から、現在は文学として認められていないネット小説、同人誌、映画や漫画、YouTubeといったメディアのほうが高度に政治色を帯びやすい）」とか、象牙の塔批判的な立ち位置を取ることができる。
+
+
+こうしたニュアンスの違いはかなりディベートに違いをもたらすはずだ。もしもACがそこまで考えておらず、単に小説についてディベートさせたいのであれば、Novelという言葉を使えばよい。
+
+
+
+
+
+
 </details>
+
+
+
 
 ## 文学は政治に影響を及ぼすか
 
@@ -71,5 +110,20 @@ Govの方針は基本的に良かった。現代で小説というメディは�
 
 インターネット検閲を潜り抜けるために違法出版でしか公表できない意見や、読むこと自体に政治的なリスクのある書籍を読むこと。これらに思い当たらないと、サリー・ルーニーの書籍には何も政治性がないとかいう主張に対して、嘆かわしいことに何も反論できない。（Normal Peopleは召使の息子が雇い主の娘と一緒にTCDに行く話なんだから、普通に階級格差要素あるだろ！サリーも元ディベーターなんだから社会格差書くよ普通に。それで投票行動変わるかは置いといて）
 
-### 証明
+### Oppの取りうるスタンスと議論の詳細
+
+読者と作者で分けていたのはよかったと思うが、その先の深まりがなかった。
+
+それぞれに沿って、いくつかあり得るアーギュメントの提案をしていこうと思う。
+
+#### 作者目線：小説は唯一検閲を潜り抜けることのできる不滅のメディアである
+
+#### 読者目線：特に持たざる者にとって小説は最もアクセスしやすく、プライベートなメディアであり、検閲が厳しい体制下で、自由主義体制との連帯を可能にする
+
+#### 政府目線：小説・出版は最も影響力があり、コントロールが容易なメディアであり、無害化することでpolitical apathyを作り上げることができる
+
+
+
+
+
 
